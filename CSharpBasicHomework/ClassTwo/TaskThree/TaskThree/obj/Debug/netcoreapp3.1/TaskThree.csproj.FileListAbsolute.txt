@@ -1,0 +1,13 @@
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\bin\Debug\netcoreapp3.1\TaskThree.exe
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\bin\Debug\netcoreapp3.1\TaskThree.deps.json
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\bin\Debug\netcoreapp3.1\TaskThree.runtimeconfig.json
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\bin\Debug\netcoreapp3.1\TaskThree.runtimeconfig.dev.json
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\bin\Debug\netcoreapp3.1\TaskThree.dll
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\bin\Debug\netcoreapp3.1\TaskThree.pdb
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\obj\Debug\netcoreapp3.1\TaskThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\obj\Debug\netcoreapp3.1\TaskThree.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\obj\Debug\netcoreapp3.1\TaskThree.AssemblyInfo.cs
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\obj\Debug\netcoreapp3.1\TaskThree.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\obj\Debug\netcoreapp3.1\TaskThree.dll
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\obj\Debug\netcoreapp3.1\TaskThree.pdb
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassTwo\TaskThree\TaskThree\obj\Debug\netcoreapp3.1\TaskThree.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ClassTwo",
+    "\\ClassTwo\\TaskOne",
+    "\\ClassTwo\\TaskOne\\ConsoleApp1"
+  ],
+  "SelectedNode": "\\ClassTwo\\TaskOne\\ConsoleApp1\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
