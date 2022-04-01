@@ -41,6 +41,10 @@ namespace TaskOne
                 {
                     Console.WriteLine("Add Or Remove:");
                     string addRemove = Console.ReadLine();
+                    if (addRemove.ToLower() != "add" && addRemove.ToLower() != "remove")
+                    {
+                        throw new Exception("You didn't enter add or remove");
+                    }
                     Console.WriteLine("Teacher");
                     Console.WriteLine("Student");
                     Console.WriteLine("Admin");
@@ -120,8 +124,7 @@ namespace TaskOne
                         default:
                             {
                                 throw new Exception("Incorrect Input");
-                            }
-                            break;
+                            }                           
                     }
                 }
 
@@ -167,7 +170,6 @@ namespace TaskOne
                             break;
                         default:
                             throw new Exception("Error");
-                            break;
                     }
                 }
                 if (input.ToLower() == "student")
@@ -177,6 +179,10 @@ namespace TaskOne
                         Console.WriteLine($"Name: {student.Name} Subject: {student.Subject} Grades: {string.Join(", ", student.Grades)}");
                     }
                 }
+                else
+                {
+                    throw new Exception("Invalid Log In input");
+                }
             }
             catch(ArgumentException ex)
             {
@@ -185,6 +191,10 @@ namespace TaskOne
             catch(Exception ex)
             {
                 Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                Console.WriteLine("Program ended");
             }
         }
         public static Student Add(string name, Subjects subj, List<int> grade)
