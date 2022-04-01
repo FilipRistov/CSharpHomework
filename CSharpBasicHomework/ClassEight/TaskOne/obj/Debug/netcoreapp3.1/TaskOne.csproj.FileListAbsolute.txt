@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.exe
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.deps.json
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.runtimeconfig.json
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.runtimeconfig.dev.json
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.dll
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.pdb
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.AssemblyInfo.cs
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.dll
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.pdb
+C:\Users\Filip\Desktop\CSharpBasicHomework\ClassEight\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.genruntimeconfig.cache
